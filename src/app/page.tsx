@@ -71,7 +71,7 @@ export default function Home() {
 
         <footer>
             <a className={styles.HL} href="https://www.instagram.com/_in_queue/" target="_blank">인스타에여</a>
-            <span>(만든지 얼마 안됐어요)</span> <br/>
+            <span>(만든지 얼마 안됐어요)</span><br/>
         </footer>
     </body>
   )
