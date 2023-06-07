@@ -1,0 +1,11 @@
+.textCancel{
+    text-decoration: line-through;
+    font-size: 20px;
+}
+.HL{
+    color: blue;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+}
